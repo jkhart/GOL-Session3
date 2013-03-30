@@ -1,0 +1,1 @@
+require './models/game_of_life'
